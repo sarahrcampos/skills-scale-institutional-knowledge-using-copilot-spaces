@@ -44,3 +44,6 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- **Quick Reference**: See [Roles Quick Reference](./roles-quick-reference.md) for a one-page summary of role responsibilities and when to engage each role.
+- **Role Handoffs**: Use the [Role Handoff Checklist](./role-handoff-checklist.md) during transitions between project phases or when passing work between team members.
+- **Detailed Personas**: Review [Roles and Personas](./octoacme-roles-and-personas.md) for comprehensive role definitions, interactions, and RACI examples.
