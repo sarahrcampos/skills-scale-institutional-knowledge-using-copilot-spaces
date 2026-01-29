@@ -117,7 +117,7 @@ This checklist helps teams ensure smooth transitions and handoffs between roles 
 
 ---
 
-### Release Handoff (QA → Release Manager → Production)
+### Release Handoff (QA/Testing → Release Manager → Production)
 
 #### Prerequisites
 - [ ] All test cases executed and passing (or exceptions approved)

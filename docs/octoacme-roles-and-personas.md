@@ -386,8 +386,8 @@ This example shows typical roles for a production release activity using RACI no
 - **C**onsulted: Provides input
 - **I**nformed: Kept up to date
 
-| Activity | PM | PdM | Dev | QA | Release Mgr | Security Lead | Support |
-|----------|----|----|-----|-------|-------------|---------------|---------|
+| Activity | PM | PdM | Dev | QA/Testing | Release Mgr | Security Lead | Support |
+|----------|----|----|-----|------------|-------------|---------------|---------|
 | Release planning | A | C | C | C | R | I | I |
 | Code freeze decision | I | C | I | C | A | I | I |
 | Security review | I | I | C | I | C | A | I |

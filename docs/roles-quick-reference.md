@@ -37,7 +37,7 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 - **UX Designer** creates designs and prototypes
 - **Business Analyst** documents workflows and specifications
 - **Developers** provide technical feasibility input
-- **QA/Testing** reviews acceptance criteria
+- **QA/Testing Engineer** reviews acceptance criteria
 - **Technical Writer** plans documentation approach
 
 ### Development Phase
@@ -48,7 +48,7 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 - **Project Manager** tracks progress and manages risks
 
 ### Testing & Validation Phase
-- **QA/Testing** executes test plans and reports bugs
+- **QA/Testing Engineer** executes test plans and reports bugs
 - **Developers** fix defects and verify fixes
 - **Business Analyst** validates business requirements
 - **Product Manager** confirms acceptance criteria met
@@ -56,7 +56,7 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 
 ### Release & Deployment Phase
 - **Release Manager** coordinates deployment activities
-- **QA/Testing** provides go/no-go recommendation
+- **QA/Testing Engineer** provides go/no-go recommendation
 - **Project Manager** communicates with stakeholders
 - **Technical Writer** publishes documentation
 - **Data Analyst** sets up monitoring dashboards
@@ -99,7 +99,7 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 4. **Engineering Management** (resource or staffing)
 
 ### For quality concerns:
-1. **QA/Testing** (defects or test failures)
+1. **QA/Testing Engineer** (defects or test failures)
 2. **Release Manager** (release readiness)
 3. **Project Manager** (timeline impacts)
 4. **Product Manager** (scope/quality trade-offs)
@@ -132,7 +132,7 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 | Project Manager | Weekly sync, email, project board | Direct message, phone | Meetings, shared docs |
 | Product Manager | Slack/Teams, backlog comments | Direct message | Planning sessions, PRD reviews |
 | Developers | PR comments, issue tracker | Direct message | Pair programming, design reviews |
-| QA/Testing | Test management tool, Slack | Direct message | Bug triage, test planning |
+| QA/Testing Engineer | Test management tool, Slack | Direct message | Bug triage, test planning |
 | Scrum Master | Standup, retrospective | Direct message | Ceremonies, one-on-ones |
 | UX Designer | Design reviews, Slack | Direct message | Design crits, prototyping sessions |
 
@@ -142,11 +142,11 @@ A one-page summary of key roles, their primary responsibilities, and when to eng
 
 1. **Clarify the role you need**: "I need a Product Manager perspective" vs. "I need a Project Manager perspective"
 2. **Respect context-switching**: Schedule meetings in advance when possible
-3. **Provide context**: Share links, background, and clear questions
-4. **Document decisions**: Don't rely solely on verbal agreements
-5. **Use the right channel**: Urgent in chat, detailed in docs, collaborative in meetings
-6. **Tag clearly**: Use role tags in issues/PRs for visibility
-7. **Follow up**: Close the loop when issues are resolved
+3. **Provide context**: Share links, background, and clear questions.
+4. **Document decisions**: Don't rely solely on verbal agreements.
+5. **Use the right channel**: Urgent in chat, detailed in docs, collaborative in meetings.
+6. **Tag clearly**: Use role tags in issues/PRs for visibility.
+7. **Follow up**: Close the loop when issues are resolved.
 
 ---
 
